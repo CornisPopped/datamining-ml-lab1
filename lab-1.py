@@ -1,7 +1,7 @@
 '''
 Shahhill Islam
 CISC 4631
-LAB 1 - 10/2/2024
+LAB 1 - 10/1/2024
 In collaboration with Joon Park
 '''
 
